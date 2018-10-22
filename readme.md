@@ -15,4 +15,4 @@ perl bmi.pl
 ## Note:
 The reference for the BMI equation and results taken from [Diabetes Canada](https://www.diabetes.ca/diabetes-and-you/healthy-living-resources/weight-management/body-mass-index-bmi-calculator)
 ## Disclaimer
-The results of this tool **should not** be taken as it is. The user or patient **must** validate these results with qualified medical personel. In any way, the author of this software has no any responsibility for any mistaken inputs or outputs. In other words,** use this tool on your own risk**. 
+The results of this tool **should not** be taken as it is. The user or patient **must** validate these results with qualified medical personel. In any way, the author of this software has no any responsibility for any mistaken inputs or outputs. In other words,**use this tool on your own risk**. 
